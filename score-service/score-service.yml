@@ -1,2 +1,4 @@
 service:
   name: score-service
+server:
+  port: 8072

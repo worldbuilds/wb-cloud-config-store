@@ -1,2 +1,4 @@
 service:
   name: event-service
+server:
+  port: 8072

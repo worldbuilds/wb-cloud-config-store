@@ -1,0 +1,4 @@
+service:
+  name: profile-service
+server:
+  port: 8071
