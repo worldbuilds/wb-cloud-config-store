@@ -1,6 +1,6 @@
 spring:
   application:
-    name: auth-service
+    name: profile-service
   thymeleaf:
     cache: false
   datasource:
